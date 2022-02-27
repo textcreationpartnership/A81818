@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Duke Hamilton's ghost, or The underminer countermined.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81818</idno>
+            <idno type="STC">Wing D2508</idno>
+            <idno type="STC">Thomason E993_17</idno>
+            <idno type="STC">ESTC R207782</idno>
+            <idno type="EEBO-CITATION">99866812</idno>
+            <idno type="PROQUEST">99866812</idno>
+            <idno type="VID">119098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119098)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Duke Hamilton's ghost, or The underminer countermined.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Aug. 7.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119098:1" rendition="simple:additions"/>
+            <p>DUKE <hi>HAMILTON'S</hi> GHOST, OR THE UNDERMINER Countermined.</p>
+            <p>
+               <hi>Ex proprio praeſidio periculum.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:119098:2"/>
+            <pb n="3" facs="tcp:119098:2"/>
+            <head>DUKE <hi>HAMILTON'S</hi> GHOST.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>A Mate not your ſelves, though hither I'me come</l>
+               <l>From that diſmal Place, that infernal Cell,</l>
+               <l>Where many a Wight doth feel his ſad doom,</l>
+               <l>(With your patience and leave) my Story to tell;</l>
+               <l>1, <hi>Hamilton</hi> hight, a Marqueſſe well known,</l>
+               <l>Learnt <hi>Machivel's</hi> ſleights, but proſper'd in none;</l>
+               <l>The more I did ſtudy, the more I did ſhow</l>
+               <l>A Web I had ſpun for my own overthrow.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>When <hi>Jeamy</hi> was dead, and I grown to be</l>
+               <l>In titles more ſtrong, by the power of his Son,</l>
+               <l>To forfeit my Faith, and my Loyalty,</l>
+               <l>That erſt I had plighted to him I begun;</l>
+               <l>The Beacons of Zeal I caus'd ſet on fire,</l>
+               <l>In <hi>England,</hi> and <hi>Scotland,</hi> and every Shire;</l>
+               <l>My Complices were in this handy-work,</l>
+               <l>This City, <hi>Pym, Hampden,</hi> the Devil, and the Kirk.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>A broad a Prophecie fomented was,</l>
+               <l>A ſecond <hi>Jeamy</hi> in this Land ſhould raign,</l>
+               <l>I thought my ſelf he, and to bring to paſs</l>
+               <l>The Plots and Deſignes I had lodg'd in my brain,</l>
+               <pb n="4" facs="tcp:119098:3"/>
+               <l>To tollerate Projects I counſell'd the King,</l>
+               <l>And then to accuſe him the ſame I did bring;</l>
+               <l>By no other meanes I thought I could riſe,</l>
+               <l>Than making him odious in his Peoples eyes.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>
+                  <hi>Hampden</hi> diſtaſt at the Ship money took,</l>
+               <l>Oppoſed his Prince in's Prerogative Royal,</l>
+               <l>And <hi>Pym</hi> his Oath, and Allegiance forſook,</l>
+               <l>As well as ſome others that ſwore to be loyal:</l>
+               <l>There's ſome in the World, I need not them name,</l>
+               <l>I'm ſure ſtands as guilty in th' black book of Fame;</l>
+               <l>But Oaths at that time with us were held wind,</l>
+               <l>Though the breach of them now I bitterly find.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>This quick-pated gang me highly did pleaſe,</l>
+               <l>For ſtill their pretence was for the Publick good,</l>
+               <l>Untill their Ambition was found the Diſeaſe</l>
+               <l>Corrupted the Nations, and ſpilt ſo much blood;</l>
+               <l>I ply'd with all Factions, eſpecially theirs</l>
+               <l>Wore the face of Religion, call'd, the <hi>Presbyters;</hi>
+               </l>
+               <l>To th' Book of Liberty I did conſent,</l>
+               <l>To bring in my Countrymen was my intent.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Whoſe rigid conditions would never agree,</l>
+               <l>I very well knew, to ſuch an inlet</l>
+               <l>(As they pleas'd to term it) of Popery,</l>
+               <l>Though it by wiſe heads was found a thing fit;</l>
+               <l>When Subjects dare into their Princes Acts pry,</l>
+               <l>To lull them aſleep aſleep is ſafe'ſt Policy:</l>
+               <l>But finding the Kirk did it ill reſent,</l>
+               <l>(Though I wiſh'd nothing more) I ſeem'd to repent.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>My Countrymen up, the King was drawn down</l>
+               <l>With a ſtrong Army their Forces to quell:</l>
+               <l>
+                  <hi>Brookes, Eſſex,</hi> and I, with others well known,</l>
+               <l>Of the Cabinet Councel did order't ſo well,</l>
+               <pb n="5" facs="tcp:119098:3"/>
+               <l>To th' Petition of Right the King did conſent,</l>
+               <l>Which cauſed the calling of th' ſhort <note n="*" place="margin">At <hi>Yorke.</hi>
+                  </note> Parliament; <note place="margin">* 3 Weeks.</note>
+               </l>
+               <l>But the malice of ſome too ſoon breaking forth,</l>
+               <l>Diſſolv'd it in <note n="*" place="margin">
+                     <hi>And then</hi> Pym's <hi>Study and others were ſearcht.</hi>
+                  </note> courſe: Then back to the North.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Where, while we remain'd, our Confederates here,</l>
+               <l>At <hi>Black-beath</hi> did raiſe a Raſcally rout,</l>
+               <l>That put the Metropolitan Biſhop in fear,</l>
+               <l>For Libels againſt him they had thrown about;</l>
+               <l>
+                  <note n="*" place="margin">
+                     <hi>In</hi> Souh<g ref="char:EOLhyphen"/>vvark.</note> Priſon dores were thrown ope, many Outrages done,</l>
+               <l>Untill the Train-bands made the looſe Knaves to run;</l>
+               <l>And ſome apprehended were puniſh'd by Law,</l>
+               <l>For example ſake, to keep others in awe.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>This News pleas'd my Country-men, though not the King,</l>
+               <l>Who wiſely yet pent in his diſcontent;</l>
+               <l>Alaſs (Sir) quoth I, there can be nothing</l>
+               <l>So cordial to you as a Parliament,</l>
+               <l>Your ſafety and happineſs on it depends,</l>
+               <l>It maugres your Foes, and advanceth your Friends,</l>
+               <l>It beats down Sedition, and breeds up good Laws,</l>
+               <l>For th' good of your People, whoſe Obedience it draws.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>The Parliament call'd, they ſubtly did paſſe <note place="margin">In 1640.</note>
+               </l>
+               <l>A Subſidy Bill to flatter the King,</l>
+               <l>Who then wanted money; but alaſs, alaſs, <note place="margin">Triennial Bill,</note>
+               </l>
+               <l>Another ſucceeded that brought with't a ſting,</l>
+               <l>Which poyſon'd the Commons, and knockt the Peers down.</l>
+               <l>Dy'd the Surpleſs in blood, and batter'd the Crown:</l>
+               <l>However by it I had partly my ends,</l>
+               <l>My Countrymen paid, and the Nations made Friends.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>From Traytors and Rebels good Subjects were made,</l>
+               <l>But forgot to prove ſo, and followed him,</l>
+               <l>The forger and foreman of th' treaſonous Trade,</l>
+               <l>Intituled by ſome to be Bell-weather <hi>Pym:</hi>
+               </l>
+               <pb n="6" facs="tcp:119098:4"/>
+               <l>This cauſed the King, as juſtly he might,</l>
+               <l>To accuſe ſome of Treaſon, and ſecure his Right;</l>
+               <l>Then new Warrs enſu'd, which caus'd me to laugh,</l>
+               <l>That Engliſh men ſhould each others blood quaff,</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>For weaken'd by Warr, (whoſe Events are unſure)</l>
+               <l>From either ſide I a Fabrick might raiſe</l>
+               <l>(My Countrymen here) to ſeat me ſecure,</l>
+               <l>And lengthen with Glory my declining dayes:</l>
+               <l>To faſhion out which, two faces I bent,</l>
+               <l>The one annenſt the King, th' other th' Parliament;</l>
+               <l>But whilſt I did think I danc'd in a ner,</l>
+               <l>Inſinuating Wits caught me in the feat.</l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>In <hi>Cornwall</hi> I was attainted of Treaſon,</l>
+               <l>For holding Irtelligence with th' Enemy,</l>
+               <l>And fifteen Articles grounded on Reaſon,</l>
+               <l>Did queſtion my Life, and my Liberty;</l>
+               <l>In <hi>Pendennis</hi> Caſtle I caſt was a ſpace,</l>
+               <l>Until, undeſerv'd, from the King I found grace,</l>
+               <l>Whoſe Mercy was ſuch, as moſt men do know,</l>
+               <l>To whom he ſhew'd moſt, moſt evil did flow.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>Succeſs, againſt Reaſon, forſook the Kings Cauſe,</l>
+               <l>And forc'd him to fly, where I ſhame it to tell,</l>
+               <l>To Men that profeſt for Religion and Laws;</l>
+               <l>But oh! I inſtructed them firſt to Rebell;</l>
+               <l>I read them this Maxim, Who once draws his Sword</l>
+               <l>'Gainſt his Prince, muſt ne're ſheath it, nor yet take his word;</l>
+               <l>But I now confeſſe, ſo much Goodneſs abus'd,</l>
+               <l>May render me juſtly a Man unexcus'd.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>In th' Perſonal Treaty I (too) had a hand,</l>
+               <l>And ſided on both ſides, yet nothing would work</l>
+               <l>On my ſides untill the Army did ſtand</l>
+               <l>Upon their Punctillioes, for which I did lurk:</l>
+               <pb n="7" facs="tcp:119098:4"/>
+               <l>The King being ſurpris'd, and to Tryal brought,</l>
+               <l>Gave a life to my hopes, and an end to my thought,</l>
+               <l>By his weakneſs I did accumulate ſtrength,</l>
+               <l>His death ſeem'd to adde unto my life length.</l>
+            </lg>
+            <lg n="16">
+               <head>16.</head>
+               <l>For now on the wings of Ambition I flew,</l>
+               <l>And Crow'd like a Cock, whileſt the <note n="*" place="margin">Cromwel</note> Lion did tremble,</l>
+               <l>My ſudden approach in him a fear drew,</l>
+               <l>However he ſeem'd the ſame to diſſemble;</l>
+               <l>I formidable was to give the defeat,</l>
+               <l>Had my heart been anſwerable to my conceit,</l>
+               <l>But faintingly fled, ſuch was my ſad lot,</l>
+               <l>The odium of which will ne're be forgot.</l>
+            </lg>
+            <lg n="17">
+               <head>17.</head>
+               <l>My Army was cow'd and diſperſt in a trice,</l>
+               <l>Without ſcarce a blow, to my Countrymens ſhame,</l>
+               <l>While <hi>Langdale</hi> his life ſet at no cheap price,</l>
+               <l>But havok'd and forc'd his way where he came;</l>
+               <l>So ſtout were the Engliſh, ſo fearful were we,</l>
+               <l>They drew their Renown from our Infamy;</l>
+               <l>Which had we had Souls like Men, and adher'd</l>
+               <l>To <hi>Langdales</hi> ſure Counſel, we need not have fear'd.</l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>To <hi>Aſhbydelazouch</hi> I was conveigh'd,</l>
+               <l>The manner of my ſurpriſal needs not,</l>
+               <l>No doubt but there were ſome had me way-laid,</l>
+               <l>Whoſe fingers did itch at me as a <hi>Scot:</hi>
+               </l>
+               <l>But oh <hi>Jeamy Ballatyne</hi> thou lymer loone,</l>
+               <l>That ſell'd thine none Countrymen kyb'd as they wone, <note place="margin">Without ſhame.</note>
+               </l>
+               <l>To <hi>Corfew,</hi> and <hi>Zant,</hi> and ſuch places remote;</l>
+               <l>May ſome of thy Frieuds ſlit thy Weeſil'd throat:</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>From thence to the Tower of <hi>London</hi> was brought,</l>
+               <l>In reference to my Tryal in hand;</l>
+               <l>Then how to eſcape I buſied my thought,</l>
+               <l>Which having effected, I was at a ſtand,</l>
+               <pb n="8" facs="tcp:119098:5"/>
+               <l>Not knowing to whom, or whither, to goe,</l>
+               <l>I <note n="*" place="margin">At the three Pil<g ref="char:EOLhyphen"/>grims in South wark * In the Palace<g ref="char:EOLhyphen"/>yard in Weſtminſter</note> retaken was to my mickle woe,</l>
+               <l>My Conſcience condemn'd me er'e their judgement paſt,</l>
+               <l>And my head from my ſhoulders was ſever'd at laſt.</l>
+            </lg>
+            <lg n="20">
+               <head>20.</head>
+               <l>As I like a <hi>Hocus pocus</hi> did live,</l>
+               <l>Carrying on my Deſignes by <hi>Legerdemaine,</hi>
+               </l>
+               <l>So dealt they with me, in hopes of Reprieve</l>
+               <l>I ſpent my laſt minute, like to <hi>Pedringave;</hi>
+               </l>
+               <l>A Traytor I liv'd, and a Travtor I dy'd,</l>
+               <l>And yet with both Parties I ever comply'd;</l>
+               <l>'Tis ſtrange you will ſay, but here is the reaſon,</l>
+               <l>I true was to neither, ſo ſuffer'd for Treaſon.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
